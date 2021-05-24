@@ -1,9 +1,9 @@
 package com.acme;
 
 public class App {
-    private static String HELLO = "Hello world";
+    private static String hello = "Hello world";
     public String getGreeting() {
-        return HELLO;
+        return hello;
     }
 
     public static void main(String[] args) {
