@@ -1,7 +1,7 @@
 package com.acme;
 
 public class App {
-    static String HELLO = "Hello world";
+    private static String HELLO = "Hello world";
     public String getGreeting() {
         return HELLO;
     }
