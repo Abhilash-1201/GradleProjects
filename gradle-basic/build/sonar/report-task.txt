@@ -1,0 +1,6 @@
+projectKey=sonarqube-scanner-gradle
+serverUrl=http://3.91.53.74:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://3.91.53.74:9000/dashboard/index/sonarqube-scanner-gradle
+ceTaskId=AXmeHpbM7jYimuVtXRQL
+ceTaskUrl=http://3.91.53.74:9000/api/ce/task?id=AXmeHpbM7jYimuVtXRQL
